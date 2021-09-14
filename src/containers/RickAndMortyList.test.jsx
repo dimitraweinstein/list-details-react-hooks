@@ -7,5 +7,8 @@ describe('Rick And Morty List Container', () => {
     render(<RickAndMortyList />);
 
     screen.getByText('Loading...');
+
+    const ul = await screen.findByRole('list', { name: 'characters' });
+    expect(ul).not.toBeEmptyDOMElement();
   });
 });
