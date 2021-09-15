@@ -8,13 +8,20 @@ const RickAndMortyList = () => {
   
   useEffect(() => (
     fetchCharacters()
-      .then((characters) => setCharacters(characters))
+      .then((characters) => {
+        setCharacters(characters);
+        console.log(characters, 'the othere one');
+      })
       .finally(() => setLoading(false))
   ), []);
-
+  
   if(loading) return <h1>Loading...</h1>;
   
-  return <CharacterList characters={characters}/>;
+  return (
+    <CharacterList
+      characters={characters}
+    />
+  );
 };
 
 export default RickAndMortyList;

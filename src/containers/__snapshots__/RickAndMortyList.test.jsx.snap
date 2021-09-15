@@ -1,0 +1,632 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Rick And Morty List Container should display a list of characters on a page 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <ul
+        aria-label="characters"
+      >
+        <li>
+          <figure>
+            <img
+              alt="Rick Sanchez"
+              src="https://rickandmortyapi.com/api/character/avatar/1.jpeg"
+            />
+            <figcaption>
+              Rick Sanchez
+               - 
+               - 
+              Alive
+            </figcaption>
+          </figure>
+        </li>
+        <li>
+          <figure>
+            <img
+              alt="Morty Smith"
+              src="https://rickandmortyapi.com/api/character/avatar/2.jpeg"
+            />
+            <figcaption>
+              Morty Smith
+               - 
+               - 
+              Alive
+            </figcaption>
+          </figure>
+        </li>
+        <li>
+          <figure>
+            <img
+              alt="Summer Smith"
+              src="https://rickandmortyapi.com/api/character/avatar/3.jpeg"
+            />
+            <figcaption>
+              Summer Smith
+               - 
+               - 
+              Alive
+            </figcaption>
+          </figure>
+        </li>
+        <li>
+          <figure>
+            <img
+              alt="Beth Smith"
+              src="https://rickandmortyapi.com/api/character/avatar/4.jpeg"
+            />
+            <figcaption>
+              Beth Smith
+               - 
+               - 
+              Alive
+            </figcaption>
+          </figure>
+        </li>
+        <li>
+          <figure>
+            <img
+              alt="Jerry Smith"
+              src="https://rickandmortyapi.com/api/character/avatar/5.jpeg"
+            />
+            <figcaption>
+              Jerry Smith
+               - 
+               - 
+              Alive
+            </figcaption>
+          </figure>
+        </li>
+        <li>
+          <figure>
+            <img
+              alt="Abadango Cluster Princess"
+              src="https://rickandmortyapi.com/api/character/avatar/6.jpeg"
+            />
+            <figcaption>
+              Abadango Cluster Princess
+               - 
+               - 
+              Alive
+            </figcaption>
+          </figure>
+        </li>
+        <li>
+          <figure>
+            <img
+              alt="Abradolf Lincler"
+              src="https://rickandmortyapi.com/api/character/avatar/7.jpeg"
+            />
+            <figcaption>
+              Abradolf Lincler
+               - 
+               - 
+              unknown
+            </figcaption>
+          </figure>
+        </li>
+        <li>
+          <figure>
+            <img
+              alt="Adjudicator Rick"
+              src="https://rickandmortyapi.com/api/character/avatar/8.jpeg"
+            />
+            <figcaption>
+              Adjudicator Rick
+               - 
+               - 
+              Dead
+            </figcaption>
+          </figure>
+        </li>
+        <li>
+          <figure>
+            <img
+              alt="Agency Director"
+              src="https://rickandmortyapi.com/api/character/avatar/9.jpeg"
+            />
+            <figcaption>
+              Agency Director
+               - 
+               - 
+              Dead
+            </figcaption>
+          </figure>
+        </li>
+        <li>
+          <figure>
+            <img
+              alt="Alan Rails"
+              src="https://rickandmortyapi.com/api/character/avatar/10.jpeg"
+            />
+            <figcaption>
+              Alan Rails
+               - 
+               - 
+              Dead
+            </figcaption>
+          </figure>
+        </li>
+        <li>
+          <figure>
+            <img
+              alt="Albert Einstein"
+              src="https://rickandmortyapi.com/api/character/avatar/11.jpeg"
+            />
+            <figcaption>
+              Albert Einstein
+               - 
+               - 
+              Dead
+            </figcaption>
+          </figure>
+        </li>
+        <li>
+          <figure>
+            <img
+              alt="Alexander"
+              src="https://rickandmortyapi.com/api/character/avatar/12.jpeg"
+            />
+            <figcaption>
+              Alexander
+               - 
+               - 
+              Dead
+            </figcaption>
+          </figure>
+        </li>
+        <li>
+          <figure>
+            <img
+              alt="Alien Googah"
+              src="https://rickandmortyapi.com/api/character/avatar/13.jpeg"
+            />
+            <figcaption>
+              Alien Googah
+               - 
+               - 
+              unknown
+            </figcaption>
+          </figure>
+        </li>
+        <li>
+          <figure>
+            <img
+              alt="Alien Morty"
+              src="https://rickandmortyapi.com/api/character/avatar/14.jpeg"
+            />
+            <figcaption>
+              Alien Morty
+               - 
+               - 
+              unknown
+            </figcaption>
+          </figure>
+        </li>
+        <li>
+          <figure>
+            <img
+              alt="Alien Rick"
+              src="https://rickandmortyapi.com/api/character/avatar/15.jpeg"
+            />
+            <figcaption>
+              Alien Rick
+               - 
+               - 
+              unknown
+            </figcaption>
+          </figure>
+        </li>
+        <li>
+          <figure>
+            <img
+              alt="Amish Cyborg"
+              src="https://rickandmortyapi.com/api/character/avatar/16.jpeg"
+            />
+            <figcaption>
+              Amish Cyborg
+               - 
+               - 
+              Dead
+            </figcaption>
+          </figure>
+        </li>
+        <li>
+          <figure>
+            <img
+              alt="Annie"
+              src="https://rickandmortyapi.com/api/character/avatar/17.jpeg"
+            />
+            <figcaption>
+              Annie
+               - 
+               - 
+              Alive
+            </figcaption>
+          </figure>
+        </li>
+        <li>
+          <figure>
+            <img
+              alt="Antenna Morty"
+              src="https://rickandmortyapi.com/api/character/avatar/18.jpeg"
+            />
+            <figcaption>
+              Antenna Morty
+               - 
+               - 
+              Alive
+            </figcaption>
+          </figure>
+        </li>
+        <li>
+          <figure>
+            <img
+              alt="Antenna Rick"
+              src="https://rickandmortyapi.com/api/character/avatar/19.jpeg"
+            />
+            <figcaption>
+              Antenna Rick
+               - 
+               - 
+              unknown
+            </figcaption>
+          </figure>
+        </li>
+        <li>
+          <figure>
+            <img
+              alt="Ants in my Eyes Johnson"
+              src="https://rickandmortyapi.com/api/character/avatar/20.jpeg"
+            />
+            <figcaption>
+              Ants in my Eyes Johnson
+               - 
+               - 
+              unknown
+            </figcaption>
+          </figure>
+        </li>
+      </ul>
+    </div>
+  </body>,
+  "container": <div>
+    <ul
+      aria-label="characters"
+    >
+      <li>
+        <figure>
+          <img
+            alt="Rick Sanchez"
+            src="https://rickandmortyapi.com/api/character/avatar/1.jpeg"
+          />
+          <figcaption>
+            Rick Sanchez
+             - 
+             - 
+            Alive
+          </figcaption>
+        </figure>
+      </li>
+      <li>
+        <figure>
+          <img
+            alt="Morty Smith"
+            src="https://rickandmortyapi.com/api/character/avatar/2.jpeg"
+          />
+          <figcaption>
+            Morty Smith
+             - 
+             - 
+            Alive
+          </figcaption>
+        </figure>
+      </li>
+      <li>
+        <figure>
+          <img
+            alt="Summer Smith"
+            src="https://rickandmortyapi.com/api/character/avatar/3.jpeg"
+          />
+          <figcaption>
+            Summer Smith
+             - 
+             - 
+            Alive
+          </figcaption>
+        </figure>
+      </li>
+      <li>
+        <figure>
+          <img
+            alt="Beth Smith"
+            src="https://rickandmortyapi.com/api/character/avatar/4.jpeg"
+          />
+          <figcaption>
+            Beth Smith
+             - 
+             - 
+            Alive
+          </figcaption>
+        </figure>
+      </li>
+      <li>
+        <figure>
+          <img
+            alt="Jerry Smith"
+            src="https://rickandmortyapi.com/api/character/avatar/5.jpeg"
+          />
+          <figcaption>
+            Jerry Smith
+             - 
+             - 
+            Alive
+          </figcaption>
+        </figure>
+      </li>
+      <li>
+        <figure>
+          <img
+            alt="Abadango Cluster Princess"
+            src="https://rickandmortyapi.com/api/character/avatar/6.jpeg"
+          />
+          <figcaption>
+            Abadango Cluster Princess
+             - 
+             - 
+            Alive
+          </figcaption>
+        </figure>
+      </li>
+      <li>
+        <figure>
+          <img
+            alt="Abradolf Lincler"
+            src="https://rickandmortyapi.com/api/character/avatar/7.jpeg"
+          />
+          <figcaption>
+            Abradolf Lincler
+             - 
+             - 
+            unknown
+          </figcaption>
+        </figure>
+      </li>
+      <li>
+        <figure>
+          <img
+            alt="Adjudicator Rick"
+            src="https://rickandmortyapi.com/api/character/avatar/8.jpeg"
+          />
+          <figcaption>
+            Adjudicator Rick
+             - 
+             - 
+            Dead
+          </figcaption>
+        </figure>
+      </li>
+      <li>
+        <figure>
+          <img
+            alt="Agency Director"
+            src="https://rickandmortyapi.com/api/character/avatar/9.jpeg"
+          />
+          <figcaption>
+            Agency Director
+             - 
+             - 
+            Dead
+          </figcaption>
+        </figure>
+      </li>
+      <li>
+        <figure>
+          <img
+            alt="Alan Rails"
+            src="https://rickandmortyapi.com/api/character/avatar/10.jpeg"
+          />
+          <figcaption>
+            Alan Rails
+             - 
+             - 
+            Dead
+          </figcaption>
+        </figure>
+      </li>
+      <li>
+        <figure>
+          <img
+            alt="Albert Einstein"
+            src="https://rickandmortyapi.com/api/character/avatar/11.jpeg"
+          />
+          <figcaption>
+            Albert Einstein
+             - 
+             - 
+            Dead
+          </figcaption>
+        </figure>
+      </li>
+      <li>
+        <figure>
+          <img
+            alt="Alexander"
+            src="https://rickandmortyapi.com/api/character/avatar/12.jpeg"
+          />
+          <figcaption>
+            Alexander
+             - 
+             - 
+            Dead
+          </figcaption>
+        </figure>
+      </li>
+      <li>
+        <figure>
+          <img
+            alt="Alien Googah"
+            src="https://rickandmortyapi.com/api/character/avatar/13.jpeg"
+          />
+          <figcaption>
+            Alien Googah
+             - 
+             - 
+            unknown
+          </figcaption>
+        </figure>
+      </li>
+      <li>
+        <figure>
+          <img
+            alt="Alien Morty"
+            src="https://rickandmortyapi.com/api/character/avatar/14.jpeg"
+          />
+          <figcaption>
+            Alien Morty
+             - 
+             - 
+            unknown
+          </figcaption>
+        </figure>
+      </li>
+      <li>
+        <figure>
+          <img
+            alt="Alien Rick"
+            src="https://rickandmortyapi.com/api/character/avatar/15.jpeg"
+          />
+          <figcaption>
+            Alien Rick
+             - 
+             - 
+            unknown
+          </figcaption>
+        </figure>
+      </li>
+      <li>
+        <figure>
+          <img
+            alt="Amish Cyborg"
+            src="https://rickandmortyapi.com/api/character/avatar/16.jpeg"
+          />
+          <figcaption>
+            Amish Cyborg
+             - 
+             - 
+            Dead
+          </figcaption>
+        </figure>
+      </li>
+      <li>
+        <figure>
+          <img
+            alt="Annie"
+            src="https://rickandmortyapi.com/api/character/avatar/17.jpeg"
+          />
+          <figcaption>
+            Annie
+             - 
+             - 
+            Alive
+          </figcaption>
+        </figure>
+      </li>
+      <li>
+        <figure>
+          <img
+            alt="Antenna Morty"
+            src="https://rickandmortyapi.com/api/character/avatar/18.jpeg"
+          />
+          <figcaption>
+            Antenna Morty
+             - 
+             - 
+            Alive
+          </figcaption>
+        </figure>
+      </li>
+      <li>
+        <figure>
+          <img
+            alt="Antenna Rick"
+            src="https://rickandmortyapi.com/api/character/avatar/19.jpeg"
+          />
+          <figcaption>
+            Antenna Rick
+             - 
+             - 
+            unknown
+          </figcaption>
+        </figure>
+      </li>
+      <li>
+        <figure>
+          <img
+            alt="Ants in my Eyes Johnson"
+            src="https://rickandmortyapi.com/api/character/avatar/20.jpeg"
+          />
+          <figcaption>
+            Ants in my Eyes Johnson
+             - 
+             - 
+            unknown
+          </figcaption>
+        </figure>
+      </li>
+    </ul>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
