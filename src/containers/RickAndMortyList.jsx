@@ -1,4 +1,6 @@
 import React, { Component } from 'react';
+import { fetchCharacters } from '../services/rickAndMortyApi';
+import CharacterList from '../components/characters/CharacterList';
 
 export default class RickAndMortyList extends Component {
   state = {
@@ -7,18 +9,24 @@ export default class RickAndMortyList extends Component {
   };
 
   async componentDidMount() {
-    //fetch characters
-    //set in characters in state
-    //set loading in state to false
+    const characters = await fetchCharacters();
+    this.setState({ loading: false, characters });
   }
 
   render() {
-    const { loading } = this.state;
+    const { loading, characters } = this.state;
 
-    if(loading) {
+    if(loading) 
       return <h1>Loading...</h1>;
-    }
 
-    return <h1>Hello!</h1>;
+    return (
+      <ul aria-label="characters">
+        {characters.map((character) => (
+          <li key={character.id}>
+            <CharacterList />
+          </li>
+        ))}
+      </ul>
+    );
   }
 }
