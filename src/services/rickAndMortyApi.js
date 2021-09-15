@@ -1,10 +1,3 @@
-// export const fetchCharacters = async () => {
-//   const res = await fetch('https://rickandmortyapi.com/api/character');
-//   const results  = res.json();
-//   console.log(results, 'these are the results');
-//   return results;
-// };
-
 export const fetchCharacters = () => {
   return fetch('https://rickandmortyapi.com/api/character')
     .then((res) => res.json())
@@ -17,4 +10,16 @@ export const fetchCharacters = () => {
         species: character.species
       }))
     );
+};
+
+export const fetchOneCharacter = (id) => {
+  return fetch(`https://rickandmortyapi.com/api/character/${id}`)
+    .then((res) => res.json())
+    .then((json) => ({
+      id: json.id,
+      name: json.name,
+      status: json.status,
+      image: json.image,
+      species: json.species
+    }));
 };

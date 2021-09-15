@@ -6,6 +6,9 @@ export default function App() {
   return (
     <BrowserRouter>
       <Switch>
+        {/* <Route path="/:id">
+          <RickAndMortyDetailList />  
+        </Route> */}
         <Route path="/">
           <RickAndMortyList />  
         </Route>
