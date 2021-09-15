@@ -9,8 +9,8 @@ describe('Rick And Morty Detail View Container', () => {
 
     screen.getByText('Loading...');
 
-    const ul = await screen.findByRole('list', { name: 'character' });
-    expect(ul).not.toBeEmptyDOMElement();
+    const div = await screen.findByRole('div', { name: 'character' });
+    expect(div).not.toBeEmptyDOMElement();
     
   });
 });

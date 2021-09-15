@@ -3,12 +3,14 @@ import PropTypes from 'prop-types';
 
 const Character = ({ image, name, species, status }) => {
   return (
-    <figure>
-      <img src={image} alt={name} />
-      <figcaption>
-        {name} - {species} - {status}
-      </figcaption>
-    </figure>
+    <div aria-label="character">
+      <figure>
+        <img src={image} alt={name} />
+        <figcaption>
+          {name} - {species} - {status}
+        </figcaption>
+      </figure>
+    </div>
   );
 };
 
