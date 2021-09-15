@@ -1,15 +1,9 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 
-const CharacterList = ({ characters }) => (
-  <ul aria-label="characters">
-    {characters.map((character) => {
-      <li key={character.id}>
-        <Character {...characters} />
-      </li>
-    })}
-  </ul>
-);
+const CharacterList = ({ }) => {
+  
+};
 
 CharacterList.propTypes = {
   characters: PropTypes.arrayOf(

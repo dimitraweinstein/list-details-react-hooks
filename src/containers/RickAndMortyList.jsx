@@ -23,7 +23,7 @@ export default class RickAndMortyList extends Component {
       <ul aria-label="characters">
         {characters.map((character) => (
           <li key={character.id}>
-            <CharacterList />
+            <CharacterList characters={characters}/>
           </li>
         ))}
       </ul>
