@@ -10,7 +10,6 @@ const RickAndMortyList = () => {
     fetchCharacters()
       .then((characters) => {
         setCharacters(characters);
-        console.log(characters, 'the othere one');
       })
       .finally(() => setLoading(false))
   ), []);

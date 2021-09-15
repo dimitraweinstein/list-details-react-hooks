@@ -14,6 +14,7 @@ export const fetchCharacters = () => {
         name: character.name,
         status: character.status,
         image: character.image,
+        species: character.species
       }))
     );
 };

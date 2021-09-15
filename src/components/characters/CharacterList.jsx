@@ -8,14 +8,14 @@ const CharacterList = ({ characters }) => {
     <ul aria-label="characters">
       {characters.map((character) => (
         <li key={character.id}>
-          {/* <Link to={`/${character.id}`}> */}
-          <Character
-            image={character.image}
-            name={character.name}
-            species={character.species}
-            status={character.status}
-          />
-          {/* </Link> */}
+          <Link to={`/${character.id}`}>
+            <Character
+              image={character.image}
+              name={character.name}
+              species={character.species}
+              status={character.status}
+            />
+          </Link>
         </li>
       ))}
     </ul>
@@ -28,7 +28,7 @@ CharacterList.propTypes = {
       id: PropTypes.number.isRequired,
       name: PropTypes.string.isRequired,
       status: PropTypes.string.isRequired,
-      species: PropTypes.string,
+      species: PropTypes.string.isRequired,
       image: PropTypes.string.isRequired
     })
   ),
