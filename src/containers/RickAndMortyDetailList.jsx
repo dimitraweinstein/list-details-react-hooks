@@ -1,24 +1,38 @@
 import React, { useEffect, useState } from 'react';
+import { useParams } from 'react-router';
+import { Link } from 'react-router-dom';
 import Character from '../components/characters/Character';
 import { fetchOneCharacter } from '../services/rickAndMortyApi';
 
 const RickAndMortyDetailList = () => {
   const [loading, setLoading] = useState(true);
   const [character, setCharacter] = useState({});
+  const { id } = useParams();
+
   
   useEffect(() => (
-    fetchOneCharacter()
+    fetchOneCharacter(id)
       .then((character) => {
         setCharacter(character);
-        console.log(character);
+        // console.log(character);
       })
       .finally(() => setLoading(false))
-  ), []);
-  
+  ), [id]);
+  // console.log(character, 'this is character');
   if(loading) return <h1>Loading...</h1>;
   
   return (
-    <Character character={character} />
+    <>
+      <Character
+        image={character.image}
+        name={character.name}
+        species={character.species}
+        status={character.status}
+      />
+      <Link to="/">
+        <button>Back Home</button>
+      </Link>
+    </>
   );
 };
 

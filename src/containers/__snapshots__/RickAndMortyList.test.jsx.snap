@@ -12,476 +12,6 @@ Object {
           <a
             href="/1"
           >
-            <div
-              aria-label="character"
-            >
-              <figure>
-                <img
-                  alt="Rick Sanchez"
-                  src="https://rickandmortyapi.com/api/character/avatar/1.jpeg"
-                />
-                <figcaption>
-                  Rick Sanchez
-                   - 
-                  Human
-                   - 
-                  Alive
-                </figcaption>
-              </figure>
-            </div>
-          </a>
-        </li>
-        <li>
-          <a
-            href="/2"
-          >
-            <div
-              aria-label="character"
-            >
-              <figure>
-                <img
-                  alt="Morty Smith"
-                  src="https://rickandmortyapi.com/api/character/avatar/2.jpeg"
-                />
-                <figcaption>
-                  Morty Smith
-                   - 
-                  Human
-                   - 
-                  Alive
-                </figcaption>
-              </figure>
-            </div>
-          </a>
-        </li>
-        <li>
-          <a
-            href="/3"
-          >
-            <div
-              aria-label="character"
-            >
-              <figure>
-                <img
-                  alt="Summer Smith"
-                  src="https://rickandmortyapi.com/api/character/avatar/3.jpeg"
-                />
-                <figcaption>
-                  Summer Smith
-                   - 
-                  Human
-                   - 
-                  Alive
-                </figcaption>
-              </figure>
-            </div>
-          </a>
-        </li>
-        <li>
-          <a
-            href="/4"
-          >
-            <div
-              aria-label="character"
-            >
-              <figure>
-                <img
-                  alt="Beth Smith"
-                  src="https://rickandmortyapi.com/api/character/avatar/4.jpeg"
-                />
-                <figcaption>
-                  Beth Smith
-                   - 
-                  Human
-                   - 
-                  Alive
-                </figcaption>
-              </figure>
-            </div>
-          </a>
-        </li>
-        <li>
-          <a
-            href="/5"
-          >
-            <div
-              aria-label="character"
-            >
-              <figure>
-                <img
-                  alt="Jerry Smith"
-                  src="https://rickandmortyapi.com/api/character/avatar/5.jpeg"
-                />
-                <figcaption>
-                  Jerry Smith
-                   - 
-                  Human
-                   - 
-                  Alive
-                </figcaption>
-              </figure>
-            </div>
-          </a>
-        </li>
-        <li>
-          <a
-            href="/6"
-          >
-            <div
-              aria-label="character"
-            >
-              <figure>
-                <img
-                  alt="Abadango Cluster Princess"
-                  src="https://rickandmortyapi.com/api/character/avatar/6.jpeg"
-                />
-                <figcaption>
-                  Abadango Cluster Princess
-                   - 
-                  Alien
-                   - 
-                  Alive
-                </figcaption>
-              </figure>
-            </div>
-          </a>
-        </li>
-        <li>
-          <a
-            href="/7"
-          >
-            <div
-              aria-label="character"
-            >
-              <figure>
-                <img
-                  alt="Abradolf Lincler"
-                  src="https://rickandmortyapi.com/api/character/avatar/7.jpeg"
-                />
-                <figcaption>
-                  Abradolf Lincler
-                   - 
-                  Human
-                   - 
-                  unknown
-                </figcaption>
-              </figure>
-            </div>
-          </a>
-        </li>
-        <li>
-          <a
-            href="/8"
-          >
-            <div
-              aria-label="character"
-            >
-              <figure>
-                <img
-                  alt="Adjudicator Rick"
-                  src="https://rickandmortyapi.com/api/character/avatar/8.jpeg"
-                />
-                <figcaption>
-                  Adjudicator Rick
-                   - 
-                  Human
-                   - 
-                  Dead
-                </figcaption>
-              </figure>
-            </div>
-          </a>
-        </li>
-        <li>
-          <a
-            href="/9"
-          >
-            <div
-              aria-label="character"
-            >
-              <figure>
-                <img
-                  alt="Agency Director"
-                  src="https://rickandmortyapi.com/api/character/avatar/9.jpeg"
-                />
-                <figcaption>
-                  Agency Director
-                   - 
-                  Human
-                   - 
-                  Dead
-                </figcaption>
-              </figure>
-            </div>
-          </a>
-        </li>
-        <li>
-          <a
-            href="/10"
-          >
-            <div
-              aria-label="character"
-            >
-              <figure>
-                <img
-                  alt="Alan Rails"
-                  src="https://rickandmortyapi.com/api/character/avatar/10.jpeg"
-                />
-                <figcaption>
-                  Alan Rails
-                   - 
-                  Human
-                   - 
-                  Dead
-                </figcaption>
-              </figure>
-            </div>
-          </a>
-        </li>
-        <li>
-          <a
-            href="/11"
-          >
-            <div
-              aria-label="character"
-            >
-              <figure>
-                <img
-                  alt="Albert Einstein"
-                  src="https://rickandmortyapi.com/api/character/avatar/11.jpeg"
-                />
-                <figcaption>
-                  Albert Einstein
-                   - 
-                  Human
-                   - 
-                  Dead
-                </figcaption>
-              </figure>
-            </div>
-          </a>
-        </li>
-        <li>
-          <a
-            href="/12"
-          >
-            <div
-              aria-label="character"
-            >
-              <figure>
-                <img
-                  alt="Alexander"
-                  src="https://rickandmortyapi.com/api/character/avatar/12.jpeg"
-                />
-                <figcaption>
-                  Alexander
-                   - 
-                  Human
-                   - 
-                  Dead
-                </figcaption>
-              </figure>
-            </div>
-          </a>
-        </li>
-        <li>
-          <a
-            href="/13"
-          >
-            <div
-              aria-label="character"
-            >
-              <figure>
-                <img
-                  alt="Alien Googah"
-                  src="https://rickandmortyapi.com/api/character/avatar/13.jpeg"
-                />
-                <figcaption>
-                  Alien Googah
-                   - 
-                  Alien
-                   - 
-                  unknown
-                </figcaption>
-              </figure>
-            </div>
-          </a>
-        </li>
-        <li>
-          <a
-            href="/14"
-          >
-            <div
-              aria-label="character"
-            >
-              <figure>
-                <img
-                  alt="Alien Morty"
-                  src="https://rickandmortyapi.com/api/character/avatar/14.jpeg"
-                />
-                <figcaption>
-                  Alien Morty
-                   - 
-                  Alien
-                   - 
-                  unknown
-                </figcaption>
-              </figure>
-            </div>
-          </a>
-        </li>
-        <li>
-          <a
-            href="/15"
-          >
-            <div
-              aria-label="character"
-            >
-              <figure>
-                <img
-                  alt="Alien Rick"
-                  src="https://rickandmortyapi.com/api/character/avatar/15.jpeg"
-                />
-                <figcaption>
-                  Alien Rick
-                   - 
-                  Alien
-                   - 
-                  unknown
-                </figcaption>
-              </figure>
-            </div>
-          </a>
-        </li>
-        <li>
-          <a
-            href="/16"
-          >
-            <div
-              aria-label="character"
-            >
-              <figure>
-                <img
-                  alt="Amish Cyborg"
-                  src="https://rickandmortyapi.com/api/character/avatar/16.jpeg"
-                />
-                <figcaption>
-                  Amish Cyborg
-                   - 
-                  Alien
-                   - 
-                  Dead
-                </figcaption>
-              </figure>
-            </div>
-          </a>
-        </li>
-        <li>
-          <a
-            href="/17"
-          >
-            <div
-              aria-label="character"
-            >
-              <figure>
-                <img
-                  alt="Annie"
-                  src="https://rickandmortyapi.com/api/character/avatar/17.jpeg"
-                />
-                <figcaption>
-                  Annie
-                   - 
-                  Human
-                   - 
-                  Alive
-                </figcaption>
-              </figure>
-            </div>
-          </a>
-        </li>
-        <li>
-          <a
-            href="/18"
-          >
-            <div
-              aria-label="character"
-            >
-              <figure>
-                <img
-                  alt="Antenna Morty"
-                  src="https://rickandmortyapi.com/api/character/avatar/18.jpeg"
-                />
-                <figcaption>
-                  Antenna Morty
-                   - 
-                  Human
-                   - 
-                  Alive
-                </figcaption>
-              </figure>
-            </div>
-          </a>
-        </li>
-        <li>
-          <a
-            href="/19"
-          >
-            <div
-              aria-label="character"
-            >
-              <figure>
-                <img
-                  alt="Antenna Rick"
-                  src="https://rickandmortyapi.com/api/character/avatar/19.jpeg"
-                />
-                <figcaption>
-                  Antenna Rick
-                   - 
-                  Human
-                   - 
-                  unknown
-                </figcaption>
-              </figure>
-            </div>
-          </a>
-        </li>
-        <li>
-          <a
-            href="/20"
-          >
-            <div
-              aria-label="character"
-            >
-              <figure>
-                <img
-                  alt="Ants in my Eyes Johnson"
-                  src="https://rickandmortyapi.com/api/character/avatar/20.jpeg"
-                />
-                <figcaption>
-                  Ants in my Eyes Johnson
-                   - 
-                  Human
-                   - 
-                  unknown
-                </figcaption>
-              </figure>
-            </div>
-          </a>
-        </li>
-      </ul>
-    </div>
-  </body>,
-  "container": <div>
-    <ul
-      aria-label="characters"
-    >
-      <li>
-        <a
-          href="/1"
-        >
-          <div
-            aria-label="character"
-          >
             <figure>
               <img
                 alt="Rick Sanchez"
@@ -495,15 +25,11 @@ Object {
                 Alive
               </figcaption>
             </figure>
-          </div>
-        </a>
-      </li>
-      <li>
-        <a
-          href="/2"
-        >
-          <div
-            aria-label="character"
+          </a>
+        </li>
+        <li>
+          <a
+            href="/2"
           >
             <figure>
               <img
@@ -518,15 +44,11 @@ Object {
                 Alive
               </figcaption>
             </figure>
-          </div>
-        </a>
-      </li>
-      <li>
-        <a
-          href="/3"
-        >
-          <div
-            aria-label="character"
+          </a>
+        </li>
+        <li>
+          <a
+            href="/3"
           >
             <figure>
               <img
@@ -541,15 +63,11 @@ Object {
                 Alive
               </figcaption>
             </figure>
-          </div>
-        </a>
-      </li>
-      <li>
-        <a
-          href="/4"
-        >
-          <div
-            aria-label="character"
+          </a>
+        </li>
+        <li>
+          <a
+            href="/4"
           >
             <figure>
               <img
@@ -564,15 +82,11 @@ Object {
                 Alive
               </figcaption>
             </figure>
-          </div>
-        </a>
-      </li>
-      <li>
-        <a
-          href="/5"
-        >
-          <div
-            aria-label="character"
+          </a>
+        </li>
+        <li>
+          <a
+            href="/5"
           >
             <figure>
               <img
@@ -587,15 +101,11 @@ Object {
                 Alive
               </figcaption>
             </figure>
-          </div>
-        </a>
-      </li>
-      <li>
-        <a
-          href="/6"
-        >
-          <div
-            aria-label="character"
+          </a>
+        </li>
+        <li>
+          <a
+            href="/6"
           >
             <figure>
               <img
@@ -610,15 +120,11 @@ Object {
                 Alive
               </figcaption>
             </figure>
-          </div>
-        </a>
-      </li>
-      <li>
-        <a
-          href="/7"
-        >
-          <div
-            aria-label="character"
+          </a>
+        </li>
+        <li>
+          <a
+            href="/7"
           >
             <figure>
               <img
@@ -633,15 +139,11 @@ Object {
                 unknown
               </figcaption>
             </figure>
-          </div>
-        </a>
-      </li>
-      <li>
-        <a
-          href="/8"
-        >
-          <div
-            aria-label="character"
+          </a>
+        </li>
+        <li>
+          <a
+            href="/8"
           >
             <figure>
               <img
@@ -656,15 +158,11 @@ Object {
                 Dead
               </figcaption>
             </figure>
-          </div>
-        </a>
-      </li>
-      <li>
-        <a
-          href="/9"
-        >
-          <div
-            aria-label="character"
+          </a>
+        </li>
+        <li>
+          <a
+            href="/9"
           >
             <figure>
               <img
@@ -679,15 +177,11 @@ Object {
                 Dead
               </figcaption>
             </figure>
-          </div>
-        </a>
-      </li>
-      <li>
-        <a
-          href="/10"
-        >
-          <div
-            aria-label="character"
+          </a>
+        </li>
+        <li>
+          <a
+            href="/10"
           >
             <figure>
               <img
@@ -702,15 +196,11 @@ Object {
                 Dead
               </figcaption>
             </figure>
-          </div>
-        </a>
-      </li>
-      <li>
-        <a
-          href="/11"
-        >
-          <div
-            aria-label="character"
+          </a>
+        </li>
+        <li>
+          <a
+            href="/11"
           >
             <figure>
               <img
@@ -725,15 +215,11 @@ Object {
                 Dead
               </figcaption>
             </figure>
-          </div>
-        </a>
-      </li>
-      <li>
-        <a
-          href="/12"
-        >
-          <div
-            aria-label="character"
+          </a>
+        </li>
+        <li>
+          <a
+            href="/12"
           >
             <figure>
               <img
@@ -748,15 +234,11 @@ Object {
                 Dead
               </figcaption>
             </figure>
-          </div>
-        </a>
-      </li>
-      <li>
-        <a
-          href="/13"
-        >
-          <div
-            aria-label="character"
+          </a>
+        </li>
+        <li>
+          <a
+            href="/13"
           >
             <figure>
               <img
@@ -771,15 +253,11 @@ Object {
                 unknown
               </figcaption>
             </figure>
-          </div>
-        </a>
-      </li>
-      <li>
-        <a
-          href="/14"
-        >
-          <div
-            aria-label="character"
+          </a>
+        </li>
+        <li>
+          <a
+            href="/14"
           >
             <figure>
               <img
@@ -794,15 +272,11 @@ Object {
                 unknown
               </figcaption>
             </figure>
-          </div>
-        </a>
-      </li>
-      <li>
-        <a
-          href="/15"
-        >
-          <div
-            aria-label="character"
+          </a>
+        </li>
+        <li>
+          <a
+            href="/15"
           >
             <figure>
               <img
@@ -817,15 +291,11 @@ Object {
                 unknown
               </figcaption>
             </figure>
-          </div>
-        </a>
-      </li>
-      <li>
-        <a
-          href="/16"
-        >
-          <div
-            aria-label="character"
+          </a>
+        </li>
+        <li>
+          <a
+            href="/16"
           >
             <figure>
               <img
@@ -840,15 +310,11 @@ Object {
                 Dead
               </figcaption>
             </figure>
-          </div>
-        </a>
-      </li>
-      <li>
-        <a
-          href="/17"
-        >
-          <div
-            aria-label="character"
+          </a>
+        </li>
+        <li>
+          <a
+            href="/17"
           >
             <figure>
               <img
@@ -863,15 +329,11 @@ Object {
                 Alive
               </figcaption>
             </figure>
-          </div>
-        </a>
-      </li>
-      <li>
-        <a
-          href="/18"
-        >
-          <div
-            aria-label="character"
+          </a>
+        </li>
+        <li>
+          <a
+            href="/18"
           >
             <figure>
               <img
@@ -886,15 +348,11 @@ Object {
                 Alive
               </figcaption>
             </figure>
-          </div>
-        </a>
-      </li>
-      <li>
-        <a
-          href="/19"
-        >
-          <div
-            aria-label="character"
+          </a>
+        </li>
+        <li>
+          <a
+            href="/19"
           >
             <figure>
               <img
@@ -909,15 +367,11 @@ Object {
                 unknown
               </figcaption>
             </figure>
-          </div>
-        </a>
-      </li>
-      <li>
-        <a
-          href="/20"
-        >
-          <div
-            aria-label="character"
+          </a>
+        </li>
+        <li>
+          <a
+            href="/20"
           >
             <figure>
               <img
@@ -932,7 +386,393 @@ Object {
                 unknown
               </figcaption>
             </figure>
-          </div>
+          </a>
+        </li>
+      </ul>
+    </div>
+  </body>,
+  "container": <div>
+    <ul
+      aria-label="characters"
+    >
+      <li>
+        <a
+          href="/1"
+        >
+          <figure>
+            <img
+              alt="Rick Sanchez"
+              src="https://rickandmortyapi.com/api/character/avatar/1.jpeg"
+            />
+            <figcaption>
+              Rick Sanchez
+               - 
+              Human
+               - 
+              Alive
+            </figcaption>
+          </figure>
+        </a>
+      </li>
+      <li>
+        <a
+          href="/2"
+        >
+          <figure>
+            <img
+              alt="Morty Smith"
+              src="https://rickandmortyapi.com/api/character/avatar/2.jpeg"
+            />
+            <figcaption>
+              Morty Smith
+               - 
+              Human
+               - 
+              Alive
+            </figcaption>
+          </figure>
+        </a>
+      </li>
+      <li>
+        <a
+          href="/3"
+        >
+          <figure>
+            <img
+              alt="Summer Smith"
+              src="https://rickandmortyapi.com/api/character/avatar/3.jpeg"
+            />
+            <figcaption>
+              Summer Smith
+               - 
+              Human
+               - 
+              Alive
+            </figcaption>
+          </figure>
+        </a>
+      </li>
+      <li>
+        <a
+          href="/4"
+        >
+          <figure>
+            <img
+              alt="Beth Smith"
+              src="https://rickandmortyapi.com/api/character/avatar/4.jpeg"
+            />
+            <figcaption>
+              Beth Smith
+               - 
+              Human
+               - 
+              Alive
+            </figcaption>
+          </figure>
+        </a>
+      </li>
+      <li>
+        <a
+          href="/5"
+        >
+          <figure>
+            <img
+              alt="Jerry Smith"
+              src="https://rickandmortyapi.com/api/character/avatar/5.jpeg"
+            />
+            <figcaption>
+              Jerry Smith
+               - 
+              Human
+               - 
+              Alive
+            </figcaption>
+          </figure>
+        </a>
+      </li>
+      <li>
+        <a
+          href="/6"
+        >
+          <figure>
+            <img
+              alt="Abadango Cluster Princess"
+              src="https://rickandmortyapi.com/api/character/avatar/6.jpeg"
+            />
+            <figcaption>
+              Abadango Cluster Princess
+               - 
+              Alien
+               - 
+              Alive
+            </figcaption>
+          </figure>
+        </a>
+      </li>
+      <li>
+        <a
+          href="/7"
+        >
+          <figure>
+            <img
+              alt="Abradolf Lincler"
+              src="https://rickandmortyapi.com/api/character/avatar/7.jpeg"
+            />
+            <figcaption>
+              Abradolf Lincler
+               - 
+              Human
+               - 
+              unknown
+            </figcaption>
+          </figure>
+        </a>
+      </li>
+      <li>
+        <a
+          href="/8"
+        >
+          <figure>
+            <img
+              alt="Adjudicator Rick"
+              src="https://rickandmortyapi.com/api/character/avatar/8.jpeg"
+            />
+            <figcaption>
+              Adjudicator Rick
+               - 
+              Human
+               - 
+              Dead
+            </figcaption>
+          </figure>
+        </a>
+      </li>
+      <li>
+        <a
+          href="/9"
+        >
+          <figure>
+            <img
+              alt="Agency Director"
+              src="https://rickandmortyapi.com/api/character/avatar/9.jpeg"
+            />
+            <figcaption>
+              Agency Director
+               - 
+              Human
+               - 
+              Dead
+            </figcaption>
+          </figure>
+        </a>
+      </li>
+      <li>
+        <a
+          href="/10"
+        >
+          <figure>
+            <img
+              alt="Alan Rails"
+              src="https://rickandmortyapi.com/api/character/avatar/10.jpeg"
+            />
+            <figcaption>
+              Alan Rails
+               - 
+              Human
+               - 
+              Dead
+            </figcaption>
+          </figure>
+        </a>
+      </li>
+      <li>
+        <a
+          href="/11"
+        >
+          <figure>
+            <img
+              alt="Albert Einstein"
+              src="https://rickandmortyapi.com/api/character/avatar/11.jpeg"
+            />
+            <figcaption>
+              Albert Einstein
+               - 
+              Human
+               - 
+              Dead
+            </figcaption>
+          </figure>
+        </a>
+      </li>
+      <li>
+        <a
+          href="/12"
+        >
+          <figure>
+            <img
+              alt="Alexander"
+              src="https://rickandmortyapi.com/api/character/avatar/12.jpeg"
+            />
+            <figcaption>
+              Alexander
+               - 
+              Human
+               - 
+              Dead
+            </figcaption>
+          </figure>
+        </a>
+      </li>
+      <li>
+        <a
+          href="/13"
+        >
+          <figure>
+            <img
+              alt="Alien Googah"
+              src="https://rickandmortyapi.com/api/character/avatar/13.jpeg"
+            />
+            <figcaption>
+              Alien Googah
+               - 
+              Alien
+               - 
+              unknown
+            </figcaption>
+          </figure>
+        </a>
+      </li>
+      <li>
+        <a
+          href="/14"
+        >
+          <figure>
+            <img
+              alt="Alien Morty"
+              src="https://rickandmortyapi.com/api/character/avatar/14.jpeg"
+            />
+            <figcaption>
+              Alien Morty
+               - 
+              Alien
+               - 
+              unknown
+            </figcaption>
+          </figure>
+        </a>
+      </li>
+      <li>
+        <a
+          href="/15"
+        >
+          <figure>
+            <img
+              alt="Alien Rick"
+              src="https://rickandmortyapi.com/api/character/avatar/15.jpeg"
+            />
+            <figcaption>
+              Alien Rick
+               - 
+              Alien
+               - 
+              unknown
+            </figcaption>
+          </figure>
+        </a>
+      </li>
+      <li>
+        <a
+          href="/16"
+        >
+          <figure>
+            <img
+              alt="Amish Cyborg"
+              src="https://rickandmortyapi.com/api/character/avatar/16.jpeg"
+            />
+            <figcaption>
+              Amish Cyborg
+               - 
+              Alien
+               - 
+              Dead
+            </figcaption>
+          </figure>
+        </a>
+      </li>
+      <li>
+        <a
+          href="/17"
+        >
+          <figure>
+            <img
+              alt="Annie"
+              src="https://rickandmortyapi.com/api/character/avatar/17.jpeg"
+            />
+            <figcaption>
+              Annie
+               - 
+              Human
+               - 
+              Alive
+            </figcaption>
+          </figure>
+        </a>
+      </li>
+      <li>
+        <a
+          href="/18"
+        >
+          <figure>
+            <img
+              alt="Antenna Morty"
+              src="https://rickandmortyapi.com/api/character/avatar/18.jpeg"
+            />
+            <figcaption>
+              Antenna Morty
+               - 
+              Human
+               - 
+              Alive
+            </figcaption>
+          </figure>
+        </a>
+      </li>
+      <li>
+        <a
+          href="/19"
+        >
+          <figure>
+            <img
+              alt="Antenna Rick"
+              src="https://rickandmortyapi.com/api/character/avatar/19.jpeg"
+            />
+            <figcaption>
+              Antenna Rick
+               - 
+              Human
+               - 
+              unknown
+            </figcaption>
+          </figure>
+        </a>
+      </li>
+      <li>
+        <a
+          href="/20"
+        >
+          <figure>
+            <img
+              alt="Ants in my Eyes Johnson"
+              src="https://rickandmortyapi.com/api/character/avatar/20.jpeg"
+            />
+            <figcaption>
+              Ants in my Eyes Johnson
+               - 
+              Human
+               - 
+              unknown
+            </figcaption>
+          </figure>
         </a>
       </li>
     </ul>
