@@ -3,8 +3,8 @@ import PropTypes from 'prop-types';
 import Character from './Character';
 import { Link } from 'react-router-dom';
 
-const CharacterList = ({ characters }) => {
-  return (
+const CharacterList = ({ characters }) =>
+  (
     <ul aria-label="characters">
       {characters.map((character) => (
         <li key={character.id}>
@@ -20,7 +20,6 @@ const CharacterList = ({ characters }) => {
       ))}
     </ul>
   );
-};
 
 CharacterList.propTypes = {
   characters: PropTypes.arrayOf(
