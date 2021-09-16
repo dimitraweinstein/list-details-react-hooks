@@ -5,16 +5,16 @@ import { MemoryRouter } from 'react-router';
 
 describe('Rick And Morty Detail View Container', () => {
   it('should display one character with details', async () => {
-    render(
+    const component = render(
       <MemoryRouter>
         <RickAndMortyDetailList />
       </MemoryRouter>);
 
     screen.getByText('Loading...');
 
-    // const ul = await screen.findByRole('list', { name: 'characters' });
-    // expect(ul).not.toBeEmptyDOMElement();
-    // expect(component).toMatchSnapshot();
+    const a = await screen.findByRole('link');
+    expect(a).not.toBeEmptyDOMElement();
+    expect(component).toMatchSnapshot();
 
   });
 });

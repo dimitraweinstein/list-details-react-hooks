@@ -29,7 +29,7 @@ CharacterList.propTypes = {
       status: PropTypes.string.isRequired,
       species: PropTypes.string.isRequired,
       image: PropTypes.string.isRequired
-    })
+    }).isRequired
   ),
 };
 
