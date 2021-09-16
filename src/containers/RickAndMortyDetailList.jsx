@@ -1,6 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import { useParams } from 'react-router';
-import { Link } from 'react-router-dom';
+import { useParams, Link } from 'react-router-dom';
 import Character from '../components/characters/Character';
 import { fetchOneCharacter } from '../services/rickAndMortyApi';
 
@@ -17,7 +16,7 @@ const RickAndMortyDetailList = () => {
         // console.log(character);
       })
       .finally(() => setLoading(false))
-  ), [id]);
+  ), []);
   // console.log(character, 'this is character');
   if(loading) return <h1>Loading...</h1>;
   
