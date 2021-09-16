@@ -6,10 +6,16 @@ Object {
   "baseElement": <body>
     <div>
       <figure>
-        <img />
+        <img
+          alt="Morty Smith"
+          src="https://rickandmortyapi.com/api/character/avatar/2.jpeg"
+        />
         <figcaption>
+          Morty Smith
            - 
+          Human
            - 
+          Alive
         </figcaption>
       </figure>
       <a
@@ -23,10 +29,16 @@ Object {
   </body>,
   "container": <div>
     <figure>
-      <img />
+      <img
+        alt="Morty Smith"
+        src="https://rickandmortyapi.com/api/character/avatar/2.jpeg"
+      />
       <figcaption>
+        Morty Smith
          - 
+        Human
          - 
+        Alive
       </figcaption>
     </figure>
     <a
